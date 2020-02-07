@@ -9,7 +9,7 @@
           "d.vect", "map=contours", "color=77:77:77", "width=2"
         ],
         [
-          "d.vect", "map=drain",
+          "d.vect", "map=drain"
         ]
       ],
       "base": "elev_lid792_1m",
