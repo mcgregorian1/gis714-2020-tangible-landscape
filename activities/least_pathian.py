@@ -20,7 +20,7 @@ def main():
     print("Hello!")
     run_LCP(scanned_elev=elev_resampled, env=None, points=points)
 
-
+#function for finding points
 def run_LCP(scanned_elev, env, points=None, **kwargs):
     if not points:
         points = 'points'
